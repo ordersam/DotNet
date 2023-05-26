@@ -6,3 +6,4 @@
   * Demo: https://youtu.be/JwAy9ljWtMY
   * Broadcast Mode, Secret Chat Mode
   * Online, Offline message
+  * Multi-Threads Consideration
